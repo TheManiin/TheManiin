@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Ferreira
 
-<!--
-**TheManiin/TheManiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Sistemas de Informação  
 
-Here are some ideas to get you started:
+💻 Tecnologias:
+- Java | Spring Boot
+- Python
+- SQL | MySQL
+- Git | GitHub
+- Noções de Cloud (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Objetivo:
+Atuar como Estagiário ou Desenvolvedor Júnior na área de Tecnologia, com foco em aprendizado contínuo e crescimento profissional.
+
+📌 Projetos em destaque:
+- **UniShoes** — Sistema web em Java + Spring Boot  
+  https://github.com/TheManiin/unishoes
+
+- **Projeto Ciência de Dados**  
+  https://github.com/TheManiin/Projeto-Ciencia-de-Dados
+
+📬 Contato:
+- 📧 Email: felipe.fm@hotmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/felipeferreirademedeiros
